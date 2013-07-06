@@ -161,5 +161,17 @@
             <groupId>javax.servlet</groupId>
             <artifactId>servlet-api</artifactId>
         </dependency>
+        
+        <!-- AR: Inventory -->
+        <dependency>
+		    <groupId>org.broadleafcommerce</groupId>
+		    <artifactId>broadleaf-inventory</artifactId>
+		</dependency>
+		
+		<!-- AR: MySQL -->
+		<dependency>
+		    <groupId>mysql</groupId>
+		    <artifactId>mysql-connector-java</artifactId>
+		</dependency>
     </dependencies>
 </project>
